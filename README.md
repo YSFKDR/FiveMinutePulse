@@ -10,6 +10,15 @@
 
 ---
 
+## Indicator Visualization
+### Indicator Settings
+![Indicator Settings](images/FiveMinutePulse_Settings.png)
+
+### Chart Example
+![Chart Example](images/FiveMinutePulse_Chart.png)
+
+---
+
 ## Understanding the Impact of FiveMinutePulse on Market Analysis
 ### Identifying Key Bars Within a Larger Structure
 - **Why the Second 5-Minute Bar?**  
